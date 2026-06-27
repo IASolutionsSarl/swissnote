@@ -1,11 +1,4 @@
 {
-    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
-        "id": "f174d2b0-6f33-4033-9335-86cdc3ec2e56",
-        "name": "REST API",
-        "designId": "d6032b39-0442-482c-8acc-d05dd3c270b4",
-        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
-        "publicData": {}
-    },
     "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
         "id": "ca7e4894-353c-4bfb-bfa5-a3f6766f960f",
         "name": "Supabase",
@@ -26,32 +19,6 @@
                 }
             },
             "realtimeTables": {}
-        }
-    },
-    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
-        "id": "0810a57e-1545-49a7-a2a1-d28ca5d736d2",
-        "name": "Supabase Auth",
-        "designId": "d6032b39-0442-482c-8acc-d05dd3c270b4",
-        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
-        "publicData": {
-            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1zcnNpZGtyZHl6ZGVhdHZsZ3lhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUyOTUwOTQsImV4cCI6MjA5MDg3MTA5NH0.KHYhcSMBtdF0YZxk5hlGUsO2qNtRH7T6QLezVaGMGM4",
-            "roleTable": null,
-            "projectUrl": "https://msrsidkrdyzdeatvlgya.supabase.co",
-            "customDomain": "",
-            "environments": {
-                "production": {
-                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1zcnNpZGtyZHl6ZGVhdHZsZ3lhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUyOTUwOTQsImV4cCI6MjA5MDg3MTA5NH0.KHYhcSMBtdF0YZxk5hlGUsO2qNtRH7T6QLezVaGMGM4",
-                    "branch": null,
-                    "branchSlug": null,
-                    "projectUrl": "https://msrsidkrdyzdeatvlgya.supabase.co",
-                    "customDomain": "",
-                    "baseProjectRef": "msrsidkrdyzdeatvlgya"
-                }
-            },
-            "userRoleTable": null,
-            "roleTableNameColumn": "role",
-            "afterForbiddenPageId": "9fcecc86-a5fe-4e83-96de-60560ff50a98",
-            "afterNotSignInPageId": "9fcecc86-a5fe-4e83-96de-60560ff50a98"
         }
     }
 }
